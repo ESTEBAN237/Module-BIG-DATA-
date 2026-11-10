@@ -2,6 +2,9 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import exo1
 
+# Nomalment c'est  deja fait dans l'exo 1 et plus simplement a mon gout. c'est  juste pour resoudre 
+# l'exo et  voir  comment faire autrement
+
 def visualize_clusters(X, y):
 
     colors = list(mcolors.CSS4_COLORS.values())
